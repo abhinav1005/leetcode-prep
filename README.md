@@ -33,7 +33,7 @@ progress.md         # tracking completion
 | Intervals             | 6        | 0     |
 | Math & Geometry       | 8        | 0     |
 | Bit Manipulation      | 7        | 0     |
-| **Total**             | **150**  | **0** |
+| **Total**             | **150**  | **3** |
 
 ## Problem File Format
 
