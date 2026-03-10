@@ -7,18 +7,21 @@
 #
 # Pattern: Arrays & Hashing
 
+from typing import List
+
 class Solution:
-    def containsDuplicate(self, nums: list[int]) -> bool:
+    def hasDuplicate(self, nums: List[int]) -> bool:
         seen = set()
-        for n in nums:
-            if n in seen:
+
+        for i in nums:
+            if i in seen:
                 return True
-            seen.add(n)
+            seen.add(i)
         return False
 
 
 # Quick test
 if __name__ == "__main__":
     s = Solution()
-    print(s.containsDuplicate([1, 2, 3, 1]))  # True
-    print(s.containsDuplicate([1, 2, 3, 4]))  # False
+    print(s.hasDuplicate([1, 2, 3, 1]))  # True
+    print(s.hasDuplicate([1, 2, 3, 4]))  # False

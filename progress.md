@@ -1,9 +1,9 @@
 # Progress Tracker
 
 ## Arrays & Hashing
-- [ ] 001 - Contains Duplicate (#217)
-- [ ] 002 - Valid Anagram (#242)
-- [ ] 003 - Two Sum (#1)
+- [x] 001 - Contains Duplicate (#217)
+- [x] 002 - Valid Anagram (#242)
+- [x] 003 - Two Sum (#1)
 - [ ] 004 - Group Anagrams (#49)
 - [ ] 005 - Top K Frequent Elements (#347)
 - [ ] 006 - Encode and Decode Strings (#271)
