@@ -13,27 +13,27 @@ progress.md         # tracking completion
 
 ## NeetCode 150 Categories
 
-| Category | Problems | Done |
-|---|---|---|
-| Arrays & Hashing | 9 | 0 |
-| Two Pointers | 5 | 0 |
-| Sliding Window | 6 | 0 |
-| Stack | 7 | 0 |
-| Binary Search | 7 | 0 |
-| Linked List | 11 | 0 |
-| Trees | 15 | 0 |
-| Tries | 3 | 0 |
-| Heap / Priority Queue | 7 | 0 |
-| Backtracking | 9 | 0 |
-| Graphs | 13 | 0 |
-| Advanced Graphs | 6 | 0 |
-| 1D DP | 12 | 0 |
-| 2D DP | 11 | 0 |
-| Greedy | 8 | 0 |
-| Intervals | 6 | 0 |
-| Math & Geometry | 8 | 0 |
-| Bit Manipulation | 7 | 0 |
-| **Total** | **150** | **0** |
+| Category              | Problems | Done  |
+| --------------------- | -------- | ----- |
+| Arrays & Hashing      | 9        | 0     |
+| Two Pointers          | 5        | 0     |
+| Sliding Window        | 6        | 0     |
+| Stack                 | 7        | 0     |
+| Binary Search         | 7        | 0     |
+| Linked List           | 11       | 0     |
+| Trees                 | 15       | 0     |
+| Tries                 | 3        | 0     |
+| Heap / Priority Queue | 7        | 0     |
+| Backtracking          | 9        | 0     |
+| Graphs                | 13       | 0     |
+| Advanced Graphs       | 6        | 0     |
+| 1D DP                 | 12       | 0     |
+| 2D DP                 | 11       | 0     |
+| Greedy                | 8        | 0     |
+| Intervals             | 6        | 0     |
+| Math & Geometry       | 8        | 0     |
+| Bit Manipulation      | 7        | 0     |
+| **Total**             | **150**  | **0** |
 
 ## Problem File Format
 
