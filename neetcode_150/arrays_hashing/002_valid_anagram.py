@@ -26,6 +26,18 @@ class Solution:
     def isAnagram_v2(self, s: str, t: str) -> bool:
         return Counter(s) == Counter(t)
 
+    # Approach 3: Single array of 26 counters - O(1) space
+    # Increment for s, decrement for t, check all zeros
+    def isAnagram_v3(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        count = [0] * 26
+        for c in s:
+            count[ord(c) - ord('a')] += 1
+        for c in t:
+            count[ord(c) - ord('a')] -= 1
+        return all(x == 0 for x in count)
+
 
 # Quick test
 if __name__ == "__main__":
