@@ -4,10 +4,10 @@
 - [x] 001 - Contains Duplicate (#217)
 - [x] 002 - Valid Anagram (#242)
 - [x] 003 - Two Sum (#1)
-- [ ] 004 - Group Anagrams (#49)
+- [x] 004 - Group Anagrams (#49)
 - [ ] 005 - Top K Frequent Elements (#347)
-- [ ] 006 - Encode and Decode Strings (#271)
-- [ ] 007 - Product of Array Except Self (#238)
+- [x] 006 - Encode and Decode Strings (#271)
+- [x] 007 - Product of Array Except Self (#238)
 - [ ] 008 - Valid Sudoku (#36)
 - [ ] 009 - Longest Consecutive Sequence (#128)
 

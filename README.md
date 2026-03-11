@@ -15,7 +15,7 @@ progress.md         # tracking completion
 
 | Category              | Problems | Done  |
 | --------------------- | -------- | ----- |
-| Arrays & Hashing      | 9        | 3     |
+| Arrays & Hashing      | 9        | 6     |
 | Two Pointers          | 5        | 0     |
 | Sliding Window        | 6        | 0     |
 | Stack                 | 7        | 0     |
@@ -33,7 +33,7 @@ progress.md         # tracking completion
 | Intervals             | 6        | 0     |
 | Math & Geometry       | 8        | 0     |
 | Bit Manipulation      | 7        | 0     |
-| **Total**             | **150**  | **3** |
+| **Total**             | **150**  | **6** |
 
 ## Problem File Format
 
